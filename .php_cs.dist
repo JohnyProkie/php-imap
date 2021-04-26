@@ -1,6 +1,6 @@
 <?php
 
-return (new PhpCsFixer\FixerFactory())
+return PhpCsFixer\Config::create()
     ->setRules([
         '@Symfony' => true,
         '@Symfony:risky' => true,
