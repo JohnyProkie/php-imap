@@ -38,8 +38,7 @@
         "povils/phpmnd": "^2.2",
         "psalm/plugin-phpunit": "0.15.1",
         "roave/security-advisories": "dev-master",
-        "sebastian/version": "2.0.1",
-        "vimeo/psalm": "^4.0"
+        "sebastian/version": "2.0.1"
     },
     "scripts": {
         "static-analysis": [
